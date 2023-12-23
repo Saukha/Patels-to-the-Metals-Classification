@@ -13,3 +13,6 @@ The dataset contains imperfections - images of flowers in odd places, or as a ba
 
 ## Rules 
 You must accept the [rules for the competition](https://www.kaggle.com/c/tpu-getting-started/rules) before you may start.
+
+## Submitted Notebook
+Here is the notebook i submitted to the code competition:  [Petals-to-the-Metal-Flower-Classification](https://www.kaggle.com/code/saukha/petals-to-the-metal-flower-classification). My notebook received upvotes from kaggle monitoring stuffs and fellow kagglers as I was fine-tuning my training model. That brought me my first silce medel on notebooks and gave me so much support and encouragement. It is truly a enriching experience to me!
